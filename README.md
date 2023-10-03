@@ -1,1 +1,1 @@
-# JitStreamer-server
+# Altjit
